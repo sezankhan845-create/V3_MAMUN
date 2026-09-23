@@ -18,13 +18,13 @@
     "enable": true,
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
   },
-  "adminOnly": {
+  "adminOnly": {61564577836236
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564577836236",
-    "61591845249773",
+    "61564577836236,
+    "61591845249773,
     ""
   ],
   "reactUnsend": {
